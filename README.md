@@ -1,0 +1,3 @@
+# PyCitySchools -- a Pandas Project
+
+In this project, we excercise the Pandas functionality we received training for in the USC Data Analytics Bootcamp. The task is to analyze school district data about schools and standardized test results. The findings show that in the particular dataset provided, charter schools have systematically substantially higher passing rates and scores on the standardized tests. There is also a weak anti-correlation of the funds spent per student and the average student performance.
